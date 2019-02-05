@@ -1,2 +1,6 @@
 # Discord-Bot
-A bot for Discord with a varying range of functions for users to take advantage of. 
+A bot for Discord with functions such as: 
+- trading
+- coin-flipping
+- 
+- and more...
